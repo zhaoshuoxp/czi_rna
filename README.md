@@ -44,5 +44,5 @@ The `lncRNA.ipynb` notebook conducts analyses on lncRNA in scRNA-Seq data, inclu
 We used Cellchat to investigate cell-cell communications in our scRNA-Seq data, as outlined in `cellchat.ipynb`. 
 
 ### Rebutal
-In response to the comments from the Cell Genomics reviewers, we conducted additional analyses using our datasets. This included detailed sub-clustering of the major cell types, supplementary GWAS enrichment tests, additional quality control, and meta-information. etc.. The code for implementing these analyses can be found in `Rebuttal.ipynb`, and the scDRS analysis for the GWAS enrichment test is available in `scDRS.ipynb`.
+In response to the comments from the Cell Genomics reviewers, we conducted additional analyses using our datasets. This included detailed sub-clustering of the major cell types, supplementary GWAS enrichment tests, additional quality control, and meta-information. etc.. The code for implementing these analyses can be found in `Rebuttal.ipynb`, the scDRS analysis for the GWAS enrichment test is available in `scDRS.ipynb` and the quantification analysis of staining images is included in `ImageQuant`.
 
