@@ -1,8 +1,8 @@
 # A single-cell atlas of human arterial vasculature
 Analysis and visualization code for the following article:
-Quanyi Zhao, Albert Pedroza, Disha Sharma, Wenduo Gu, Alex Dalal, Chad Weldy, William Jackson, Daniel Yuhang Li, Yana Ryan, Trieu Nguyen, Rohan Shad, Brian T. Palmisano, João P. Monteiro, Matthew Worssam, Alexa Berezwitz, Meghana Iyer, Huitong Shi, Ramendra Kundu, Lasemahang Limbu, Juyong Brian Kim, Anshul Kundaje, Michael Fischbein, Robert Wirka, Thomas Quertermous, Paul Cheng. A cell and transcriptome atlas of the human arterial vasculature reveals roles of developmental master regulators in health and disease. *BIORXIV/2024/612293*. https://doi.org/10.1101/2024.09.10.612293
+Quanyi Zhao, Albert Pedroza, Disha Sharma, Wenduo Gu, Alex Dalal, Chad Weldy, William Jackson, Daniel Yuhang Li, Yana Ryan, Trieu Nguyen, Rohan Shad, Brian T. Palmisano, João P. Monteiro, Matthew Worssam, Alexa Berezwitz, Meghana Iyer, Huitong Shi, Ramendra Kundu, Lasemahang Limbu, Juyong Brian Kim, Anshul Kundaje, Michael Fischbein, Robert Wirka, Thomas Quertermous, Paul Cheng. A cell and transcriptome atlas of human arterial vasculature. *Cell Genomics 5, 101034*. https://doi.org/10.1016/j.xgen.2025.101034
 
-The processed data files can be accessed at https://cellxgene.cziscience.com/collections/8f17ac63-aaba-44b5-9b78-60f121da4c2f. These files are provided for reproducing the main figures in the article and for further exploration. After loading the `.rds` files, which are named after the dependent variables, you can begin analysis at any point.
+The processed data files can be accessed at https://cellxgene.cziscience.com/collections/8f17ac63-aaba-44b5-9b78-60f121da4c2f. These files are provided for reproducing the main figures in the article and for further exploration. After loading the `.h5ad` files, which are named after the dependent variables, you can begin analysis at any point.
 
 ## Source data
 ### download from CellxGene
