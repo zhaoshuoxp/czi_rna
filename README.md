@@ -1,4 +1,4 @@
-# A single-cell atlas of human arterial vasculature
+# A cell and transcriptome atlas of human arterial vasculature
 Analysis and visualization code for the following article:
 Quanyi Zhao, Albert Pedroza, Disha Sharma, Wenduo Gu, Alex Dalal, Chad Weldy, William Jackson, Daniel Yuhang Li, Yana Ryan, Trieu Nguyen, Rohan Shad, Brian T. Palmisano, João P. Monteiro, Matthew Worssam, Alexa Berezwitz, Meghana Iyer, Huitong Shi, Ramendra Kundu, Lasemahang Limbu, Juyong Brian Kim, Anshul Kundaje, Michael Fischbein, Robert Wirka, Thomas Quertermous, Paul Cheng. A cell and transcriptome atlas of human arterial vasculature. *Cell Genomics 5, 101034*. https://doi.org/10.1016/j.xgen.2025.101034
 
